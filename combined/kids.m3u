@@ -1,0 +1,505 @@
+#EXTM3U
+# Auto-generated combined playlist
+# Generated: 2025-12-20 14:20:22 UTC
+# Source: https://github.com/Zerr0-C00L/lalajo
+
+#EXTINF:-1,DISNEY JR
+http://172.93.102.112:8989/278831_.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://185.166.252.230/Nickelodeon/index.m3u8
+#EXTINF:-1,Disney HD
+http://185.166.252.230/Disney/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD 50@fps
+http://45.90.106.7:8781/play/GcQ7491K3@T5C/index.m3u8
+#EXTINF:-1,DISNEY JUINIOR HD
+http://45.90.106.7:8781/play/Tq297P3@Yzn3K/index.m3u8
+#EXTINF:-1,NICKELODEON+1 HD @50fps
+http://45.90.106.7:8781/play/XqY842iI9@H6kM/index.m3u8
+#EXTINF:0,cartoonnetwork
+http://65.108.239.207/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network
+http://85.11.144.6:6060/play/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+http://85.11.144.6:6060/play/a07q/index.m3u8
+#EXTINF:-1,Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:0 tvg-id="XNickelodeon.hu" tvg-name="Nickelodeon HU", Nickelodeon HU
+#EXTGRP:Венгрия http://de.online24.pm/play/779/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XCartoon.Network.hu" tvg-name="Cartoon Network HU", Cartoon Network HU
+#EXTGRP:Венгрия http://de.online24.pm/play/889/219F6666A4460D8/video.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://mimipipi22.github.io/logo/kids/kidstv.jpg" group-title="KIDS",KIDS TV
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNetWHD.mpd
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="KIDS",CARTOONITO
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mimipipi22.github.io/logo/kids/dreamworks.jpg" group-title="KIDS",DREAMWORKS
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK
+https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR
+https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvpremium.jpg" group-title="KIDS",CARTOON TV PREMIUM
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontv.jpg" group-title="KIDS",CARTOON TV
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvclassic.jpg" group-title="KIDS",CARTOON TV CLASSICS
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+#EXTINF:0 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://mimipipi22.github.io/logo/kids/moonbug.jpg" group-title="KIDS",MOONBUG
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mimipipi22.github.io/logo/kids/cbeebies.jpg" group-title="KIDS",CBEEBIES BBC
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KIDS",ZOO MOO
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="KIDS",MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="Dunia Anak" tvg-name="Dunia Anak" tvg-logo="https://mimipipi22.github.io/logo/kids/duniaanak.jpg" group-title="KIDS",DUNIA ANAK
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#EXTINF:-1 tvg-id="Dunia Anak" tvg-name="Dunia Anak" tvg-logo="https://mimipipi22.github.io/logo/kids/duniaanak.jpg" group-title="KIDS",DUNIA ANAK (BACKUP)
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/duniaanak/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/vtv.jpg" group-title="KIDS",VIVA TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://mimipipi22.github.io/logo/kids/horee.jpg" group-title="KIDS",HOREE
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="KIDS",HIP HIP HOREE!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTINF:-1 tvg-id="FunPlanet.id" tvg-name="Fun Planet" tvg-logo="https://mimipipi22.github.io/logo/kids/funplanet.jpg" group-title="KIDS",FUN PLANET
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="KIDS",MY KIDZ
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="KIDS",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Asia" tvg-logo="https://mimipipi22.github.io/logo/kids/davinci.jpg" group-title="KIDS",DAVINCI
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/spacetoon.jpg" group-title="KIDS",SPACETOON
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/ebskids.jpg" group-title="KIDS", EBS KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/kidszoneplus.jpg" group-title="KIDS",KIDS ZONE PLUS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/planetfun.jpg" group-title="KIDS",PLANET FUN
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/deikids.jpg" group-title="KIDS",DEI KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/kartoonchannel.jpg" group-title="KIDS",KARTOON CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 group-title="KIDS",▂ ▃ ▅ ▇ █ ▓ ▒ ░ KIDS ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://mimipipi22.github.io/logo/kids/kidstv.jpg" group-title="KIDS",KIDS TV (VS+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTINF:-1 tvg-id="Kids_TV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/kidstv.jpg" group-title="KIDS",KIDS TV (STR)
+https://wurljansonmedia.global.transmit.live/hls/69029561e0b3f0f215eef867/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK (FMX)
+https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mediampd/CartoonNetWHD.mpd
+#EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="KIDS",CARTOON NETWORK (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="KIDS",CARTOONITO (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
+#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="KIDS",CARTOONITO (INDI)
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/boomerang/manifest.mpd
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mimipipi22.github.io/logo/kids/dreamworks.jpg" group-title="KIDS",DREAMWORKS (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mimipipi22.github.io/logo/kids/dreamworks.jpg" group-title="KIDS",DREAMWORKS (VS+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mimipipi22.github.io/logo/kids/dreamworks.jpg" group-title="KIDS",DREAMWORKS (TVOD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK (VS+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK (INDI)
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://mimipipi22.github.io/logo/kids/nick.jpg" group-title="KIDS",NICK (TVOD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR (VS+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+#EXTINF:-1 tvg-id="NickJr.id" tvg-name="Nick Jr." tvg-logo="https://mimipipi22.github.io/logo/kids/nickjr.jpg" group-title="KIDS",NICK JR (TVOD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvpremium.jpg" group-title="KIDS",CARTOON TV PREMIUM (CBM)
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontv.jpg" group-title="KIDS",CARTOON TV (CBM)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvclassic.jpg" group-title="KIDS",CARTOON TV CLASSICS (CBM)
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+#EXTINF:0 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://mimipipi22.github.io/logo/kids/moonbug.jpg" group-title="KIDS",MOONBUG (VS+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:-1 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://mimipipi22.github.io/logo/kids/moonbug.jpg" group-title="KIDS",MOONBUG (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest_w206397924_qRFZS.mpd?encp=&uid=&expp=
+#EXTINF:-1 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://mimipipi22.github.io/logo/kids/moonbug.jpg" group-title="KIDS",MOONBUG (AMG)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Moonbug.id" tvg-name="Moonbug" tvg-logo="https://mimipipi22.github.io/logo/kids/moonbug.jpg" group-title="KIDS",MOONBUG (TVOD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mimipipi22.github.io/logo/kids/cbeebies.jpg" group-title="KIDS",CBEEBIES BBC (VS+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mimipipi22.github.io/logo/kids/cbeebies.jpg" group-title="KIDS",CBEEBIES BBC (TVOD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KIDS",ZOO MOO (VS+)
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KIDS",ZOO MOO (AMG)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KIDS",ZOO MOO (TVOD)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="KIDS",MENTARI TV (IND)
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://mimipipi22.github.io/logo/kids/mentaritv.jpg" group-title="KIDS",MENTARI TV (PASS)
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+#EXTINF:-1 tvg-id="Dunia Anak" tvg-name="Dunia Anak" tvg-logo="https://mimipipi22.github.io/logo/kids/duniaanak.jpg" group-title="KIDS",DUNIA ANAK (CBM)
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#EXTINF:-1 tvg-id="Dunia Anak" tvg-name="Dunia Anak" tvg-logo="https://mimipipi22.github.io/logo/kids/duniaanak.jpg" group-title="KIDS",DUNIA ANAK (IND)
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/duniaanak/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/vtv.jpg" group-title="KIDS",VIVA TV (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://mimipipi22.github.io/logo/kids/horee.jpg" group-title="KIDS",HOREE (FMX)
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://mimipipi22.github.io/logo/kids/horee.jpg" group-title="KIDS",HOREE (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="KIDS",HIP HIP HOREE!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="KIDS",MY KIDZ (DNS)
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="KIDS",MY KIDZ (IND)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1 tvg-id="FunPlanet.id" tvg-name="Fun Planet" tvg-logo="https://mimipipi22.github.io/logo/kids/funplanet.jpg" group-title="KIDS",FUN PLANET (IND)
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 tvg-id="Biznet Kids" tvg-name="Biznet Kids" tvg-logo="https://mimipipi22.github.io/logo/kids/biznetkids.jpg" group-title="KIDS",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Asia" tvg-logo="https://mimipipi22.github.io/logo/kids/davinci.jpg" group-title="KIDS",DAVINCI (IND)
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/spacetoon.jpg" group-title="KIDS",SPACETOON (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/ebskids.jpg" group-title="KIDS", EBS KIDS (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/kidszoneplus.jpg" group-title="KIDS",KIDS ZONE PLUS (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/planetfun.jpg" group-title="KIDS",PLANET FUN (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/deikids.jpg" group-title="KIDS",DEI KIDS (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/kartoonchannel.jpg" group-title="KIDS",KARTOON CHANNEL (OXY)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="KIDS",POP
+https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
+#EXTINF:-1 tvg-id="popup" tvg-name="POP UP" tvg-logo="https://images.pluto.tv/channels/664c953db18d700008fcc158/colorLogoPNG.png" group-title="KIDS",POP UP
+https://jmp2.uk/plu-664c953db18d700008fcc158.m3u8
+#EXTINF:-1 tvg-id="664c951df99922000842870c" tvg-name="Tiny Pop" tvg-logo="https://images.pluto.tv/channels/664c951df99922000842870c/colorLogoPNG.png" group-title="KIDS",Tiny Pop
+https://jmp2.uk/plu-664c951df99922000842870c.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.mv" tvg-name="Cartoon Network US" tvg-logo="https://8upload.com/image/68063548097dd/cnhilay.png" group-title="KIDS",CN US
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="sensicaljr.mv" tvg-name="Sensical Jr" tvg-logo="https://8upload.com/image/68247b8a9e355/sensicaljrhilay.png" group-title="KIDS",SENSICAL JR
+https://maldivesn.net/hilaytv/sensicaljr
+#EXTINF:-1 tvg-id="ToonGoggles.mv" tvg-name="Toon Goggles" tvg-logo="https://8upload.com/image/680637c515d85/tghilay.png" group-title="KIDS",TOON GOGGLESS
+https://maldivesn.net/hilaytv/toongoggles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/Discovery Kids Tamil.png" group-title="KIDS",DISCOVERY KIDS
+http://185.150.190.199/DISCOVERYKIDS/index.m3u8
+#EXTINF:-1 tvg-id="Disney.mv" tvg-name="Disney Channel" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="KIDS",DISNEY CHANNEL
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+#EXTINF:-1 tvg-id="THREEHOUSE" tvg-name="THREEHOUSE" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/treehouse.png" group-title="KIDS",TREEHOUSE
+https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
+#EXTINF:-1 tvg-id="YTV" tvg-name="YTV" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="KIDS",YTV
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/rtejr.png" group-title="KIDS", RTE Jr. 🇮🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="toonzkids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/poster_20231121_195247.jpg" group-title="KIDS",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-id="kids-tv-et" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-et/poster_20240521_223754.jpg" group-title="KIDS",Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.mv" tvg-name="Disney Junior" tvg-logo="https://8upload.com/image/681f402be7fca/disneyjrhilay.png" group-title="KIDS",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="DisneyXD.mv" tvg-name="Disney XD" tvg-logo="https://8upload.com/image/681f402bdee16/disneyxdhilay.png" group-title="KIDS",DISNEY XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="KIDS",NICKTOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-id="PBSKids.mv" tvg-name="PBS Kids" tvg-logo="https://8upload.com/image/681f471c5ef06/pbskidshilay.png" group-title="KIDS",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="Boomerang.mv" tvg-name="Boomerang" tvg-logo="https://8upload.com/image/681f471c52caa/boomeranghilay.png" group-title="KIDS",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 AT 🇦🇹 CH 🇨🇭", DISNEY CHANNEL DE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="SK 🇸🇰",disneychannel
+http://185.188.188.237:5000/live/disneychannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931141.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| CARTOON NETWORK
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1931141&extension=ts&play_token=YH6YEeQGyo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931109.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| DISNEY CHANNEL
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1931109&extension=ts&play_token=qg9V5Vaqm9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931108.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| DISNEY JUNIOR
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1931108&extension=ts&play_token=0Tq7P766sQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931107.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| DISNEY XD
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1931107&extension=ts&play_token=Z2GiXW4PyW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931026.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| LOOLOO KIDS
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1931026&extension=ts&play_token=0dhKlabulG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1930985.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| NICKELODEON EAST
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1930985&extension=ts&play_token=UGjzrVzpnm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1930977.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| PBS KIDS
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=1930977&extension=ts&play_token=2VPyxcDNyw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45479.png" group-title="US| MOVIES NETWORK",US| STARZ KIDS & FAMILY HD
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:51:77:37&stream=45479&extension=ts&play_token=rynUT6qOKG
+#EXTINF:-1 tvg-id="yes.Movies.Kids.il" tvg-logo="https://mimipipi22.github.io/logo/png/yes-movies-kids-israel.png" group-title="ISRAEL",Yes Movies Kids Israel
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOILEETHACB5HUWDYQQSPBOVIQYQPEQCOMJAHZSH66TFM57XCJKUAZIAMBIBKRITCMJSOQYHAM3F/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-logo="https://mimipipi22.github.io/logo/png/adult-swim.png" group-title="UNITED STATES",Adult Swim
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOITEAQDYMLSDAZDAXASDEPBAAQJAUXTGZBBMR2GYZ3SMMXHO3QGKAAFC/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://mimipipi22.github.io/logo/png/cartoon-network.png" group-title="UNITED STATES",Cartoon Network
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOIREUTSIKR5EVSROVCGIRNUEWYQDJ4XKY3WNM4DCNDTMN6CAOSXKYBQAACWARLDC/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="https://mimipipi22.github.io/logo/png/disney-channel.png" group-title="UNITED STATES",Disney Channel
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOIWFUTD4IBLNMDDCUC4LVIVYEA2DJZWMYLXFZ2WONTTGF5COOYAKEFQGAKVAFKQ/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="https://mimipipi22.github.io/logo/png/disney-junior.png" group-title="UNITED STATES",Disney JR
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOIWFUTD4IBLNMHQWEIYDEKAMBICJQZGYZZEMUTDGMZDG4XSO2SXAQCA/index.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="https://mimipipi22.github.io/logo/png/disney-xd.png" group-title="UNITED STATES",Disney XD
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOIWFUTD4IBLNMOR2EIYDEKAGAIEJRTGMYD4MVYWMZ34GBZSAPAFAQBA/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://mimipipi22.github.io/logo/png/nick.png" group-title="UNITED STATES",NICK
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOI4BULBWZLYMFSWUAQCJ4DVIVACBE3GO2L4GF2DI2JEGZZA/index.m3u8
+#EXTINF:-1 tvg-id="Universal.Kids.us" tvg-logo="https://mimipipi22.github.io/logo/png/universal-kids-us.png" group-title="UNITED STATES",Universal Kids USA
+https://world-proxifier.xyz/daddylive_go/p/C4MWCOIHFI6CMIBAHASDKELZLJIEGEDFMMJHK6TPOJZGG2BZMVZXKYKVKQAFCAQAKIATAMLJOU/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed SD" group-title="Live",Cartoon Network USA Eastern Feed SD
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="Live",Cartoon Network USA Eastern Feed HD
+https://tvpass.org/live/CartoonNetworkEast/hd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed SD" group-title="Live",Disney Eastern Feed SD
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed HD" group-title="Live",Disney Eastern Feed HD
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East SD" group-title="Live",Disney Junior USA East SD
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East HD" group-title="Live",Disney Junior USA East HD
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed SD" group-title="Live",Disney XD USA Eastern Feed SD
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed HD" group-title="Live",Disney XD USA Eastern Feed HD
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed SD" group-title="Live",Nickelodeon USA East Feed SD
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed HD" group-title="Live",Nickelodeon USA East Feed HD
+https://tvpass.org/live/NickelodeonEast/hd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/hd
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg",🔴 Karate Kid: Legends (2025)
+https://cloud.hownetwork.xyz/xxx/KRk7LzEcWiorNVogJlczNiYLZHx1S0JsITAaExtvZ2EmHCt3dUg/32/480.m3u8
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nRWiUth8Cr5bG9AQkDZHoAS25CW.jpg",🔵 Buffalo Kids (2024)
+https://cloud.hownetwork.xyz/xxx/IA0vKCQVGGwpOBM_bgJmanZVKyIwCxY4HQkoeiBVNDohTio/32/480.m3u8
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8jUNfoDa1RKpprKVtFqWgngtkId.jpg",This Land of Mine (2024)
+https://stream.hownetwork.xyz/xxx/this-land-of-mine-2024-webdl_X_d8212a14/26/480.m3u8
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://image.tmdb.org/t/p/w185/uV0tZkugXfp3P91XX8yxZyodaHO.jpg",Greatest Cartoons of the Golden Era Vol. 2 (2024)
+https://ss01.tubzde.cc/data/C/6729494b2e856/hls720/6729494b2e856720.m3u8|referer=https://ss01.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/10/film-kiddo-2024-lk21-d21.jpg.webp",Kiddo 2024 🟢
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/16/Kiddo.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-space-kids-2023-lk21-d21.jpg",Space Kids 2024
+https://stream.hownetwork.xyz/xxx/space-kids-2023-webdl_X_f032ff7e/22/480.m3u8
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cOSAcaVdqQoyX7VDigjAy94mMaO.jpg",The Kid (El Niño) (2014)
+https://stream.hownetwork.xyz/xxx/el-nino-2014-bluray_X_46bb378c/30/480.m3u8
+#EXTINF:-1 type="" group-title="MOVIES VOD" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/so4lTfAVLtOm6ggHXJm9hXqXTgC.jpg",Who Kidnapped My Mom? (2022) 
+https://ss07.tubzde.cc/data/9/67699474858ef/hls480/67699474858ef480.m3u8|referer=https://streamsilk.com/&user-agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 group-logo="https://i.ibb.co.com/NS9tZ44/cat-kids.png",
+
+#EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo="https://i.ibb.co.com/2FGJLGg/abckids.png" group-title="KIDS", ABC KIDS 🇦🇺
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-id="mjh-abc-me" tvg-name="" tvg-logo="https://i.ibb.co.com/rkFbwRV/abcme.png" group-title="KIDS", ABC ME 🇦🇺
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="KIDS", ANIMAX 🇯🇵 🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="KIDS", ANIMAX 🇯🇵 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="KIDS", ANIMAX 🇯🇵 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co.com/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS 🇯🇵
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="" tvg-logo="https://i.ibb.co.com/KqKdMRK/aniplus.png" group-title="KIDS", ANIPLUS 🔴 🇯🇵 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/W5JgdN6/babybus.png" group-title="KIDS", BABYBUS YT 🇨🇳
+https://ythls-v2.onrender.com/channel/UC5v3gjCQLFeg8eBXO7ShdpQ.m3u8
+#EXTINF:-1 channel-id="samsung-INBC280001662" tvg-id="INBC280001662" tvg-logo="https://i.ibb.co.com/HTHDJ7q/babi1st.png" tvg-chno="1273" group-title="KIDS" , BABY FIRST 🇺🇸
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co.com/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 🇰🇷
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co.com/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 🇰🇷
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949fff44-b258-11ee-9039-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ecdfec3-b265-4c95-95f0-dffffa891a9f&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/R2JqbjY/bkids.png" group-title="KIDS", B KIDS 🇮🇩
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co.com/mF7gyWV/cn.png" group-title="KIDS", CARTOON NETWORK 🇺🇸 🇷🇴
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co.com/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co.com/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co.com/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.ibb.co.com/H4NNf2m/cartoonito.png" group-title="KIDS", CARTOONITO 🇬🇧 🇷🇴
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://i.ibb.co.com/zn7bHNn/cbeebies.png" group-title="KIDS", CBEEBIES 🇬🇧
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.ibb.co.com/fS35p6p/cinemachikids.png" group-title="KIDS", CINEMACHI KIDS 🇬🇧
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="" tvg-logo="https://i.ibb.co.com/cTmLWMy/davinci.png" group-title="KIDS", DAVINCI 🇩🇪
+
+#EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://i.ibb.co.com/C29CLPp/doratv.png" tvg-chno="3140" group-title="KIDS" , Dora TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=949ffd00-b258-11ee-b9bb-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a228f049-3e34-4c61-88b3-7b47e6a36cf5&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-name="" tvg-logo="https://i.ibb.co.com/932vZfR/dreamworks.png" group-title="KIDS", DREAMWORKS 🇺🇸
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co.com/xXxyBrv/dunianak.png" group-title="KIDS", DUNIA ANAK 🇮🇩
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co.com/xXxyBrv/dunianak.png" group-title="KIDS", DUNIA ANAK 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NyMzNn3/disneych.png" group-title="KIDS", DISNEY CHANNEL 🇷🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/GdQY7KX/disneyjr.png" group-title="KIDS", DISNEY JR 🇷🇴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/Kxp5QMG/funplanet.png" group-title="KIDS" , FUN PLANET 🇮🇩
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png" group-title="KIDS" , HOREE! 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 channel-id="Horee" tvg-id="" tvg-logo="https://i.ibb.co.com/w7tbfWD/horee.png" group-title="KIDS" , HOREE! 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co.com/tJX1NDf/kidoodletv.png" tvg-chno="" group-title="KIDS" , KIDOODLE TV 🇺🇸
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/qNpjCYr/kidsflix.png" group-title="KIDS", KIDSFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-name="" tvg-logo="https://i.ibb.co.com/r7D6K2k/kidstv.png" group-title="KIDS", KIDS TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://i.ibb.co.com/QkNWGtG/legokidstv.png" tvg-chno="3210" group-title="KIDS" , LEGO Kids TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a0043a-b258-11ee-b6c7-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca05fe1-d777-48d3-80f2-58183408d1d1&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/3SDbLWM/leo.png" group-title="KIDS", LEO WILDLIFE GUARD YT 🇸🇬
+https://ythls-v2.onrender.com/channel/UCiuu1WKCPw8VPasHoRE3NZA.m3u8
+#EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.ibb.co.com/XYH1m9q/mentaritv.png" group-title="KIDS", MENTARI TV 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-name="" tvg-logo="https://i.ibb.co.com/r3ss43b/mykidz.png" group-title="KIDS", MYKIDZ TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/G2yTmyV/mylittlepony.png" group-title="KIDS", MY LITTLE PONY YT 🇺🇸
+https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="https://i.ibb.co.com/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON 🇺🇸 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/tJ27PX5/nick.png" group-title="KIDS", NICKELODEON 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co.com/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR 🇺🇸 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co.com/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR 🇺🇸 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="https://i.ibb.co.com/Gkz5wjx/nickjr.png" group-title="KIDS", NICK JR 🇺🇸 🇲🇾
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/qrhGpfd/pbskids.png" group-title="KIDS", PBS KIDS 🇺🇸
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/kgZgnxK/tayo.png" group-title="KIDS", TAYO YT 🇰🇷
+https://ythls-v2.onrender.com/channel/UCUaZwCnn6Z-16BmkKngSs0g.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ydz4SLT/toonzkids.png" group-title="KIDS", TOONZKIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://i.ibb.co.com/3BDrBvR/transformers.png" tvg-chno="3200" group-title="KIDS" , Transformers TV 🇺🇸
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://i.ibb.co.com/Kh5Mwfd/zoomoo.png" group-title="KIDS", ZOO MOO 🇳🇿
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/6JQkBW9/natgeokids.png" group-title="KNOWLEDGE", NATGEO KIDS ON YT 🇺🇸
+https://ythls-v2.onrender.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://image.tmdb.org/t/p/original/dHTqrNDFUe2NM0CQEMWjqh9hffC.jpg",Spy Kids: Armageddon (Spy Kids 5) (Robert Rodriguez) (2023)
+https://storage.dewanonton.online/hls/3e258c53-be88-4a9f-8a8b-a09d27b31770.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://i.jeded.com/i/ghost-in-the-shell-sac2045-sustainable-war.237345.jpg",Ghost In The Shell: SAC_2045 Sustainable War (Kokaku Kidotai SAC_2045 Jizoku Kano Senso) (2022)
+https://storage.dewanonton.online/hls/42575961-4d10-4ff0-9c4f-eb0dfbb04981.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://i.jeded.com/i/mobile-suit-gundam-hathaways-flash.212827.jpg",Mobile Suit Gundam: Hathaway's Flash (Kido Senshi Gandamu: Senko no Hasauei) (2021)
+https://storage.dewanonton.online/hls/9bc338ea-b3bc-49b3-bb02-a53cfa6031d6.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFlZjZkMTYtODM2Zi00OTM4LWIwYTktOTFjMmQzZDEzZDc4XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",Mulan (Disney 2020)
+https://storage.dewanonton.online/hls/229f61c1-389e-4235-a6db-3e076ff012b3.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://image.tmdb.org/t/p/original/fYkyF19UJdpSCMRwcQyoryBlnU3.jpg",Money Heist (Aikido) Season03 Eps02
+https://hls2.dewanonton.online/vultr/KEJOkLOlWIIAh/hls-stream.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQzNTkxNzgtMTViMC00Y2JjLTg1ZjAtY2I3MzE0ODdmMzAyXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SX300.jpg",The Kid Who Would Be King (2019)
+https://storage.dewanonton.online/hls/c7fd6684-3369-4fcb-a1cb-5c6123ee7748.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgwOTk1NjQ0NV5BMl5BanBnXkFtZTcwNTk4MDI3NQ@@._V1_SX300.jpg",Spy Kids 4: All The Time In The World (Spy Kids 4-D) (2011)
+https://storage.dewanonton.online/hls/7c93dcf4-adcf-475f-a35c-866c8bafdb8a.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@._V1_SX300.jpg",The Karate Kid (2010)
+https://storage.dewanonton.online/hls/b0bb5bf8-c406-4619-8978-b69beee7c176.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI4MTQyNTUzMF5BMl5BanBnXkFtZTcwNzE2MDAwMQ@@._V1_SX300.jpg",Spy Kids 3: Game Over (Spy Kids 3-D) (2003)
+https://storage.dewanonton.online/hls/6ab534ff-f383-45e7-bcc7-032c9d4c626e.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM2N2JjYzYtYWIyNS00NDc3LWFkNDctMmYwOWQyZTcxYjZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",Spy Kids 2: Island Of Lost Dreams (2002)
+https://hls2.dewanonton.online/vultr/rGJuspHsEaStS/hls-stream.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JhODU1NmQtNjllYS00ZmQwLWEwZjYtMTE5NjA1M2YyMzdjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",Spy Kids (2001)
+https://hls2.dewanonton.online/vultr/vvuixKnnkjBOs/hls-stream.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQwOTVkZmQtMDMwNS00ZTQzLTlkODUtOWI0NDZkMjYxNWUwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",The Next Karate Kid (1994)
+https://storage.dewanonton.online/hls/683f157a-6c38-406f-9516-acd118ffa441.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",The Karate Kid Part 3 (1989) (SUB ENG)
+https://storage.dewanonton.online/hls/2ed669f0-0910-4b76-a367-9864d0647ea6.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E3YjliMWEtYzlmOC00NmU5LWE4NGItNmIyZmNkZjkwNTA0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",The Karate Kid Part 2 (1986)
+https://storage.dewanonton.online/hls/4c560210-f8c5-4733-b498-cacfac61511e.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",The Karate Kid (1984)
+https://storage.dewanonton.online/hls/65d039e7-561f-4ed6-b9a4-97d660af595e.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMxOTY5YWUtYzMzNC00ODkzLWFjNDYtNWFlMGUzMjk2OTVkXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg",Diary Of A Wimpy Kid Christmas: Cabin Fever (Luke Cormican) (2023)
+https://storage.dewanonton.online/hls/2e0252da-2eb8-4d0f-b858-87dbb3dd0643.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://image.tmdb.org/t/p/original/cz4kK3yscGgzsSbCCfAnC2vwe5q.jpg",LEGO Disney Princess: The Castle Quest (LEGO Disney Princesas: Missao Castelo) (Michael D. Black) (2023)
+https://storage.dewanonton.online/hls/540ba272-f8a9-4683-9cbe-21e788408a80.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://image.tmdb.org/t/p/original/qghg7S2aDgW4OQ8vd8KMXzA2Me9.jpg",The Secret Book Of The Unwinding Ridge (The kiddie Tomb) (Xie Ling Mi Lu) (2021)
+https://storage.dewanonton.online/hls/3238d250-e1df-4495-8061-d70658cd8998.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FkMmU2YjQtZGMzOC00OWZlLTlkNmEtNWVmMmJiMjU1MTA5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg",The Magic Kids: Three Unlikely Heroes
+https://storage.dewanonton.online/hls/bb1d9622-1261-4001-a1d7-916f50662fc9.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQyMWMwZjItNTAyZS00ZmMxLWI4N2UtMzM4MzQ2NzBhNmI2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX300.jpg",Terra Willy: Explored Planet (Terra Willy: Planete Inconnue) (Astro Kid) (2019)
+https://storage.dewanonton.online/hls/175af177-7493-4b64-a62a-af16b77563ce.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTcwMzMxNjUyM15BMl5BanBnXkFtZTYwNTY4MjY2._V1_SX300.jpg",Catch That Kid (Mission Without Permission) (2004)
+https://storage.dewanonton.online/hls/314567bc-20e8-4d1f-9605-8ca8151326d5.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU3N2MzOGYtODhmMy00Y2IzLWI3YmEtYzNiMTU1ZjY0ZDNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",Honey,I Blew Up The Kid (1992)
+https://storage.dewanonton.online/hls/a8d258d4-5dcb-4eb4-af14-b5a632750711.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc0MDkwY2MtNTcxYi00M2M5LWE0MTMtODkwNTA2ODBmZGJiXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_SX300.jpg",Diary Of A Wimpy Kid: Rodrick Rules (2022)
+https://storage.dewanonton.online/hls/58670476-bec9-40cb-833c-138343d85594.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYyMjI1OWQtYjhmMS00MmU4LWI1N2UtNzFlZGQ0MDE2ODEwXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg",Diary Of A Wimpy Kid (2021)
+https://storage.dewanonton.online/hls/6a63b91e-60ef-406e-b5fd-bd7dd972be60.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMyZDRlNDktMDVmMS00Mjc2LThkNTctZWEyMTY2MjVjZmY5XkEyXkFqcGdeQXVyNzAwMjYxMzA@._V1_SX300.jpg",Diary Of A Wimpy Kid: The Long Haul (2017)
+https://storage.dewanonton.online/hls/b52d4370-b928-41a1-b5ac-0a9a5f512ec7.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk4YzkzYjYtMjBiZS00NWJkLWFiYjAtMWQ2YjlhYjg3YWU4XkEyXkFqcGdeQXVyNTc3MDU1MTU@._V1_SX300.jpg",Kids On The Slope
+https://storage.dewanonton.online/hls/2e0923b6-47cc-4601-b023-e07bbc8977ea.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWExMTMyNjctODA3NS00NTM1LWE1ODUtYmZlN2Y1YjQwMjAwXkEyXkFqcGdeQXVyNjE4OTY3NTg@._V1_SX300.jpg",Asakusa Kid (El Chico De Asakusa) (2021)
+https://storage.dewanonton.online/hls/6a915153-e33b-4181-b3ba-0f02a8267fab.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEyNjZmOGEtMmZkYy00MTEzLWFmY2UtZTkwYjJlYzUxYWUwXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",The Kid Detective (2020)
+https://storage.dewanonton.online/hls/285ea3e0-745a-4d84-bf7f-2d31a0e92156.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MjEyMDc5N15BMl5BanBnXkFtZTcwNjY4NDI2OA@@._V1_SX300.jpg",Bad Kids Go To Hell (2012)
+https://storage.dewanonton.online/hls/787cc78e-a809-4f8f-aea4-85f7917cf70e.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJhYmI1YzItNjAzNi00NjQ4LWEzN2YtMjY4Yzg0NmU1YWE1XkEyXkFqcGdeQXVyNzkzNTg4NjY@._V1_SX300.jpg",Diary Of A Wimpy Kid: Dog Days (2012)
+https://storage.dewanonton.online/hls/00a5b53b-7a59-4bfb-9128-92b087328b74.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNDYwOTEzMl5BMl5BanBnXkFtZTcwOTA3MzY3NA@@._V1_SX300.jpg",Diary Of A Wimpy Kid: Rodrick Rules (2011)
+https://storage.dewanonton.online/hls/290764f3-22f4-4f9f-82b9-aaade0f97c95.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg3NzQ2NDgyNF5BMl5BanBnXkFtZTcwMDc1NzIyMw@@._V1_SX300.jpg",Diary Of A Wimpy Kid (2010)
+https://storage.dewanonton.online/hls/ac52f0f3-3478-42ba-afbe-69eab1bb31d6.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYwM2JmNzgtNzVjMi00NzQ4LTk2MDQtOTE4N2U0ODU0YjYwXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_SX300.jpg",The Kid (Disney's The Kid) (2000)
+https://storage.dewanonton.online/hls/cd4236ff-b821-4bea-9372-c71d6e5559d3.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI2N2FlNjAtOTZlNC00MjY1LTkxODUtMDY0YWVjZjU1Y2Y0XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",Just Kids (2019)
+https://storage.dewanonton.online/hls/05818a3e-501c-4a3a-937d-c538d048cb4d.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NmFmZDEtMzYwZS00ZDQyLTkxNzUtNWYyMTc2YjFhNTcwXkEyXkFqcGdeQXVyNzYxNDk5MjA@._V1_SX300.jpg",Little Bikes (The Kids In The Bikes) (Lxs Chicxs De Las Motitos) (2020)
+https://storage.dewanonton.online/hls/c9429fd4-0057-4406-a0d0-fa7003b96c51.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEyYTk0NzQtNTE2Zi00YjQwLThjMjYtODc4NDUzYWM3ZDY3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",Swing Kids
+https://storage.dewanonton.online/hls/15ba0330-bc9d-46f0-8483-a60eec774a69.mp4/index.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE4MjAxOTYtZmM2Zi00NGNmLTljNGUtYjRhNWMzOWQ0ZDlkXkEyXkFqcGdeQXVyMTAxODEwNTcx._V1_SX300.jpg",Four Kids and It
+https://hls2.dewanonton.online/vultr/PTfFMceAXjXda/hls-stream.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://image.tmdb.org/t/p/original/tIBEsnzhz5NE1KTzwyvJlFIGEhg.jpg",Dead Kids
+https://hls2.dewanonton.online/EMacLbAbbTzBq/hls-stream.m3u8
+#EXTINF:-1 type="" group-title="Nonton VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRkOTkxMGItNDZjMi00NmMxLWE3ZmItNTc1OTY0NDlkOTNhXkEyXkFqcGdeQXVyMjA0NjM1Nw@@._V1_SX300.jpg",Kidnapping Stella
+https://hls2.dewanonton.online/aABRdXlpcuGch/hls-stream.m3u8
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032174X0-portrait.jpg",Showbiz Kids 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/030449X0-portrait.jpg",We Are The Dream: The Kids Of The Oakland And Mlk Oratorical Fest 2020
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023421X0-portrait.jpg",Stolen Daughters: Kidnapped By Boko Haram 2018
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020474X0-portrait.jpg",Saving My Tomorrow: Kids Who Love The Earth 2017
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/016740X0-portrait.jpg",State Of Play: Trophy Kids 2013
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019966X0-portrait.jpg",The Weight Of The Nation For Kids 01: The Great Cafeteria Takeover 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019967X0-portrait.jpg",The Weight Of The Nation For Kids 02: Kebreeya'S Salad Days 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/019968X0-portrait.jpg",The Weight Of The Nation For Kids 03: Quiz Ed! 2012
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2011-2015" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014724X0-portrait.jpg",Spy Kids: All The Time In The World 2011
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2006-2010" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014924X0-portrait.jpg",Homeless: The Motel Kids Of Orange County 2010
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014279X0-portrait.jpg",Spy Kids 3: Game Over 2003
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014146X0-portrait.jpg",Spy Kids 2: Island Of Lost Dreams 2002
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 2001-2005" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014107X0-portrait.jpg",Spy Kids 2001
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 1996-2000" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017359X0-portrait.jpg",The Cherokee Kid 1996
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 1991-1995" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/017445X0-portrait.jpg",5 American Handguns - 5 American Kids: America Undercover 1995
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 type="movie" group-title="HBOGO ASIA 1975-1990" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015549X0-portrait.jpg",Earth To Kids: A Guide To Products For A Healthy Planet 1990
+#KODIPROP:inputstreamaddon=inputstream.adaptive
