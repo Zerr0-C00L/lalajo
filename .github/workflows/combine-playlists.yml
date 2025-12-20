@@ -1,26 +1,6 @@
 name: Combine and Categorize Playlists
 
 on:
-  push:
-    branches: [ main ]
-    paths:
-      - '*.m3u'
-      - '*.m3u8'
-      - 'iptv'
-      - 'playlist25'
-      - 'daddylive-channels'
-      - 'denstv'
-      - 'fstv'
-      - 'rdstv'
-      - 'trial'
-      - 'tvpass'
-      - 'udptv'
-      - 'vision+'
-      - 'vod'
-      - 'yoyo'
-      - 'DewaNonton'
-      - 'china'
-      - 'hbogoasia'
   workflow_dispatch:  # Allow manual trigger
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight UTC
