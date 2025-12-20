@@ -74,7 +74,7 @@ jobs:
             echo "Processing: $source_file"
             
             # Read file line by line
-            while IFS= read -r line; do
+            while IFS= read -r line || [ -n "$line" ]; do
               # Skip #EXTM3U header
               if [[ "$line" == "#EXTM3U" ]]; then
                 continue
@@ -84,8 +84,15 @@ jobs:
               if [[ "$line" == "#EXTINF"* ]]; then
                 EXTINF_LINE="$line"
                 
-                # Read the next line (URL)
-                read -r URL_LINE
+                # Read the next line (URL) - handle EOF
+                if ! read -r URL_LINE; then
+                  URL_LINE=""
+                fi
+                
+                # Skip if URL is empty
+                if [ -z "$URL_LINE" ]; then
+                  continue
+                fi
                 
                 # Extract group-title if present
                 GROUP=""
@@ -159,7 +166,7 @@ jobs:
                   echo "$URL_LINE" >> "combined/${category}.m3u"
                 done
               fi
-            done < "$source_file"
+            done < "$source_file" || true
             
             echo "  ✓ Processed $source_file"
           done
